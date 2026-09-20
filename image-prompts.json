@@ -1,0 +1,48 @@
+{
+  "mode": "built-in image_gen",
+  "dimensions": "1536x1024",
+  "purpose": "Conceptual scientific illustrations; not photographs or evidence of actual projects",
+  "assets": [
+    {
+      "name": "hero",
+      "prompt": "Use case: scientific-educational. Asset type: premium geoscience consulting website illustration. Create one landscape 3:2 image. Exceptional cohesive editorial scientific 3D illustration, realistic terrain and tactile geological strata, sophisticated deep teal, muted copper and natural earth palette, warm neutral background, soft directional daylight, finely detailed but calm composition. Conceptual illustration, not documentary evidence or actual project data. No text, labels, letters, numbers, logos, watermarks, legends, fake data or project claims. Primary request: Broad western Canada foothills transitioning to a precise exposed layered geological cutaway with a fault and deep sedimentary formations. Wide cinematic landscape, spacious upper landscape for website hero use.",
+      "file": "hero.png"
+    },
+    {
+      "name": "geothermal",
+      "prompt": "Use case: scientific-educational. Asset type: premium geoscience consulting website illustration. Create one landscape 3:2 image. Exceptional cohesive editorial scientific 3D illustration, realistic terrain and tactile geological strata, sophisticated deep teal, muted copper and natural earth palette, warm neutral background, soft directional daylight, finely detailed but calm composition. Conceptual illustration, not documentary evidence or actual project data. No text, labels, letters, numbers, logos, watermarks, legends, fake data or project claims. Primary request: Geothermal cutaway beneath a small Canadian prairie town and greenhouse. Two distinct wells, production and reinjection, reach a deep permeable sedimentary formation. Reservoir warmth expressed by subtle amber shading within porous rock. No magma, no lava, no underground void.",
+      "file": "geothermal-corrected.png"
+    },
+    {
+      "name": "minerals",
+      "prompt": "Use case: scientific-educational. Asset type: premium geoscience consulting website illustration. Create one landscape 3:2 image. Exceptional cohesive editorial scientific 3D illustration, realistic terrain and tactile geological strata, sophisticated deep teal, muted copper and natural earth palette, warm neutral background, soft directional daylight, finely detailed but calm composition. Conceptual illustration, not documentary evidence or actual project data. No text, labels, letters, numbers, logos, watermarks, legends, fake data or project claims. Primary request: Canadian Shield forest terrain cutaway, a buried inclined mineralized geological body beneath glacial cover, a few discreet surface sample points. Mineralization looks like natural rock with copper-toned vein texture, no giant gems or crystals.",
+      "file": "minerals.png"
+    },
+    {
+      "name": "groundwater",
+      "prompt": "Use case: scientific-educational. Asset type: premium geoscience consulting website illustration. Create one landscape 3:2 image. Exceptional cohesive editorial scientific 3D illustration, realistic terrain and tactile geological strata, sophisticated deep teal, muted copper and natural earth palette, warm neutral background, soft directional daylight, finely detailed but calm composition. Conceptual illustration, not documentary evidence or actual project data. No text, labels, letters, numbers, logos, watermarks, legends, fake data or project claims. Primary request: Prairie farm cutaway showing a shallow water table and porous sand and gravel aquifer above clay and bedrock, with a river and small water well. Water is held within pore space of sediment, represented by subtle blue saturation in the granular aquifer. No underground cavern or underground lake.",
+      "file": "groundwater.png"
+    },
+    {
+      "name": "consultation",
+      "prompt": "Use case: scientific-educational. Asset type: premium geoscience consulting website illustration. Create one landscape 3:2 image. Exceptional cohesive editorial scientific 3D illustration, realistic terrain and tactile geological strata, sophisticated deep teal, muted copper and natural earth palette, warm neutral background, soft directional daylight, finely detailed but calm composition. Conceptual illustration, not documentary evidence or actual project data. No text, labels, letters, numbers, logos, watermarks, legends, fake data or project claims. Primary request: Overhead tabletop consultation on a warm desk, geological maps and geological cross sections, laptop displaying a simple three dimensional subsurface block model, human hands discussing a project. No legible words or numeric data anywhere.",
+      "file": "consultation.png"
+    },
+    {
+      "name": "development",
+      "prompt": "Use case: scientific-educational. Asset type: premium geoscience consulting website illustration. Create one landscape 3:2 image. Exceptional cohesive editorial scientific 3D illustration, realistic terrain and tactile geological strata, sophisticated deep teal, muted copper and natural earth palette, warm neutral background, soft directional daylight, finely detailed but calm composition. Conceptual illustration, not documentary evidence or actual project data. No text, labels, letters, numbers, logos, watermarks, legends, fake data or project claims. Primary request: Field development planning: isometric Canadian prairie terrain showing proposed small well pads, modest access routes, existing infrastructure, and layered subsurface targets in a cutaway block. Clear phased planning through subtly differentiated copper and teal project elements. Sparse landscape, no factory sprawl.",
+      "file": "development.png"
+    },
+    {
+      "name": "magnetotellurics",
+      "prompt": "Use case: scientific-educational. Asset type: premium geoscience consulting website illustration. Create one landscape 3:2 image. Exceptional cohesive editorial scientific 3D illustration, realistic terrain and tactile geological strata, sophisticated deep teal, muted copper and natural earth palette, warm neutral background, soft directional daylight, finely detailed but calm composition. Conceptual illustration, not documentary evidence or actual project data. No text, labels, letters, numbers, logos, watermarks, legends, fake data or project claims. Primary request: Ground magnetotelluric field instruments in remote Canadian foothills: a small rugged recorder with cables extending to small ground electrodes and low horizontal induction-coil sensors lying on the ground. Scientifically plausible field deployment, terrain and instruments prominent. No satellite dish, drill rig, aircraft, or vertical antenna array.",
+      "file": "magnetotellurics.png"
+    },
+    {
+      "name": "integration",
+      "prompt": "Use case: scientific-educational. Asset type: premium geoscience consulting website illustration. Create one landscape 3:2 image. Exceptional cohesive editorial scientific 3D illustration, realistic terrain and tactile geological strata, sophisticated deep teal, muted copper and natural earth palette, warm neutral background, soft directional daylight, finely detailed but calm composition. Conceptual illustration, not documentary evidence or actual project data. No text, labels, letters, numbers, logos, watermarks, legends, fake data or project claims. Primary request: Conceptual geoscience data integration: separated horizontal map layers showing geology, well trajectories and a smoothly shaded resistivity model co-registering into a single detailed three dimensional earth block below. Restrained technical elegance and clear spatial registration. No neon holograms, no screens full of text.",
+      "file": "integration.png"
+    }
+  ],
+  "correction": "Geothermal arrow corrected via image_gen edit to show hot production upwards and cool reinjection downwards. Original geothermal.png should not be used."
+}
